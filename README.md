@@ -1,3 +1,6 @@
+> ⚠️ **This repository is archived and kept for reference purposes only.**  
+> It is no longer maintained and will not receive updates or support.
+
 Deploy a [DigitalOcean App Platform](https://www.digitalocean.com/products/app-platform/) app using GitHub Actions.
 
  - Auto-deploy your app from source on commit, while allowing you to run tests or perform other operations before.
